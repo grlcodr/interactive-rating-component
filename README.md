@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-[Mobile](./screenshots/mobile.png)
+[Mobile](/src/assets/screenshots/mob.png)
 
 ### Built with
 
