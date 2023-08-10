@@ -22,9 +22,25 @@ Users should be able to:
 - Select and submit a number rating
 - See the "Thank you" card state after submitting a rating
 
-### Screenshot
+### Screenshots
+
+Preview:
+
+![Desktop](/src/assets/screenshots/desktop.png)
+
+
+Main page:
 
 [Mobile](/src/assets/screenshots/mob.png)
+[Desktop](/src/assets/screenshots/desktop.png)
+
+Active state:
+[Mobile](/src/assets/screenshots/mob-active.png)
+[Desktop](/src/assets/screenshots/desktop-active.png)
+
+Thank you state:
+[Mobile](/src/assets/screenshots/mob-thankyou.png)
+[Desktop](/src/assets/screenshots/desktop-thankyou.png)
 
 ### Built with
 
