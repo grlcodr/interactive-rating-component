@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@100;300;400;600;700&display=swap');
+
+.rating-summary  {
+    padding: 30px;
+    text-align: center;
+}
+
+.selected-rating {
+    background-color: #252c35;
+    color: #fb7413;
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 50px;
+    font-weight: 300;
+}
+
+@media screen and (min-width: 768px) {
+    .card {
+        max-width: 50%;
+    }
+}

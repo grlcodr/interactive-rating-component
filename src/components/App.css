@@ -1,0 +1,33 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: hsl(216, 12%, 8%);
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  margin: 20px;
+  max-width: 80%;
+  border-radius: 10px;
+  background-image: linear-gradient(to bottom, #252d37, #212831, #1e242c, #1a1f26, #171b21);
+  font-family: Overpass, sans-serif;
+  color: white;
+  height: 300px;
+}
+
+p {
+  font-size: 15px;
+  font-weight: 100;
+}
+
+@media screen and (min-width: 768px) {
+  .card {
+      max-width: 50%;
+  }
+}
+
