@@ -20,6 +20,7 @@
   color: white;
   height: 375px;
   letter-spacing: 0.5px;
+  width: 350px;
 }
 
 p {
@@ -27,20 +28,3 @@ p {
   font-weight: 100;
 }
 
-@media screen and (min-width: 768px) {
-  .card {
-      max-width: 50%;
-  }
-}
-
-@media screen and (min-width: 1024px) {
-  .card {
-      max-width: 30%;
-  }  
-}
-
-@media screen and (min-width: 1440px) {
-  .card {
-      max-width: 20%;
-  }    
-}
