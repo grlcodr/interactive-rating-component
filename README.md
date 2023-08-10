@@ -42,6 +42,9 @@ Thank you state:
 [Mobile](/src/assets/screenshots/mob-thankyou.png)
 [Desktop](/src/assets/screenshots/desktop-thankyou.png)
 
+### Links
+[Live App](https://interactive-rating-component-ten.vercel.app/)
+
 ### Built with
 
 - Mobile-first workflow
