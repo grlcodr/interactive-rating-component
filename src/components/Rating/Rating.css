@@ -42,7 +42,7 @@
     margin-right: 0; 
 }
 
-.rating-btns .btn:hover {
+.rating-btns .btn:hover, .btn:active, .btn:focus {
     background-color: #fb7413;
     color: white;
     cursor: pointer;

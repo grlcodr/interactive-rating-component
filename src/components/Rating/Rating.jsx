@@ -12,7 +12,7 @@ const Rating = () => {
     setRating(ratingValue);
   };
 
-  const handleSubmit = () => {
+  const handleSubmit = (e) => {
     setSubmitted(true);
   };
 
